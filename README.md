@@ -41,5 +41,4 @@ Programmer @ **Buchanan Bird Brains** - _designing robot-subsystems and data app
 
 **Projects**
 Fair-Loan Classifer - _creating a novel fair-loan predictor through a debiasing pipeline, DualFair_
-
 -->
