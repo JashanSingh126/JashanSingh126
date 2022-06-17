@@ -10,7 +10,7 @@ If you're interested, I love setting up chats with new people who are interested
 - 📫 How to reach me: jashan@mit.edu
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact(OK 2): I'm an anime fanatic and just learned how to play poker!
-- 
+
 **Skills**
 - Web/Mobile- Javascript, Swift, C#
 - Machine Learning - Python, Keras, Matplotlib, Pytorch, Pandas
