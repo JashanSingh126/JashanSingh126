@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jashandeep Singh, a college student from the Massachusetts Institute of Technology (MIT) studying Computer Science and Engineering (course 6-3); currently, I am working as a software engineer for various companies, and just finished a previous research project at MIT CSAIL.
+I'm Jashandeep Singh, a college student from the Massachusetts Institute of Technology (MIT) studying Computer Science and Engineering (course 6-3); currently, I working as a software engineer for various companies, and just finished a previous research project at MIT CSAIL.
 
 I'm extremely passionate about artificial intellgience, entreprenuership, machine learning, and software development. With my diverse background and skillset I've gained, I can provide tangible value to projects across software engineering, touching upon IOS to front-end to data science development.
 
@@ -23,9 +23,9 @@ If you're interested, I love setting up chats with new people who are interested
 - [Twitter](https://twitter.com/JSingh_126)
 
 **Experiences**
-- Machine Learning Intern @ **MIT CSAIL** - _AI-fairness and equitity _
-- Data Science Intern @ **Wobot.AI** - _computer vision resturant tech development_
-- Machine Learning Intern @ **Harvard Medical School** - _computational biology software _
+- Machine Learning Intern @ **MIT CSAIL** - ___AI-fairness and equitity ___
+- Data Science Intern @ **Wobot.AI** - ___computer vision resturant tech development___
+- Machine Learning Intern @ **Harvard Medical School** - ___computational biology software ___
 - Software Development Intern @ **California State University, Fresno** - _fluid dynamics with computer science _
 - CEO & Technical Co-Founder @ **StudySet** - _leveraging computer science to create SAT/ACT prep resources_
 - Co-Founder & Chief Technology Officer @ **The Ecolibrium Project** - _front-end climate-change website development_
