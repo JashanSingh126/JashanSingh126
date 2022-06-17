@@ -23,13 +23,13 @@ If you're interested, I love setting up chats with new people who are interested
 - [Twitter](https://twitter.com/JSingh_126)
 
 **Experiences**
-- Machine Learning Intern @ **MIT CSAIL** - ___AI-fairness and equitity ___
-- Data Science Intern @ **Wobot.AI** - ___computer vision resturant tech development___
-- Machine Learning Intern @ **Harvard Medical School** - ___computational biology software ___
-- Software Development Intern @ **California State University, Fresno** - _fluid dynamics with computer science _
-- CEO & Technical Co-Founder @ **StudySet** - _leveraging computer science to create SAT/ACT prep resources_
-- Co-Founder & Chief Technology Officer @ **The Ecolibrium Project** - _front-end climate-change website development_
-- Programmer @ **Buchanan Bird Brains** - _designing robot-subsystems and data apps_
+- Machine Learning Intern @ **MIT CSAIL** - AI-fairness and equitity 
+- Data Science Intern @ **Wobot.AI** - computer vision resturant tech development
+- Machine Learning Intern @ **Harvard Medical School** - computational biology software 
+- Software Development Intern @ **California State University, Fresno** - fluid dynamics with computer science 
+- CEO & Technical Co-Founder @ **StudySet** - leveraging computer science to create SAT/ACT prep resources
+- Co-Founder & Chief Technology Officer @ **The Ecolibrium Project** - front-end climate-change website development
+- Programmer @ **Buchanan Bird Brains** - designing robot-subsystems and data apps
 
 **Things I've Worked On**
-- Fair-Loan Classifer - _creating a novel fair-loan predictor through a debiasing pipeline, DualFair_
+- Fair-Loan Classifer - creating a novel fair-loan predictor through a debiasing pipeline, DualFair
