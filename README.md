@@ -9,7 +9,7 @@ If you're interested, I love setting up chats with new people who are interested
 - 👯 I’m looking to collaborate on open source projects that benefit social causes
 - 📫 How to reach me: jashan@mit.edu
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact(OK 2): I'm an anime fanatic and just learned how to play poker!
+- ⚡ Fun fact (OK 2): I'm an anime fanatic and just learned how to play poker!
 
 **Skills**
 - Web/Mobile- Javascript, Swift, C#
