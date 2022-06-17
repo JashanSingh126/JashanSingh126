@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jashandeep Singh, a college student from the Massachusetts Institute of Technology (MIT) studying Computer Science and Engineering (course 6-3); currently, I working as a software engineer for various companies, and just finished a previous research project at MIT CSAIL.
+I'm Jashandeep Singh, a college student from the Massachusetts Institute of Technology (MIT) studying Computer Science and Engineering (course 6-3); currently, I'm working as a software engineer for various companies, and just finished a previous research project at MIT CSAIL.
 
 I'm extremely passionate about artificial intellgience, entreprenuership, machine learning, and software development. With my diverse background and skillset I've gained, I can provide tangible value to projects across software engineering, touching upon IOS to front-end to data science development.
 
