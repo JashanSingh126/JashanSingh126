@@ -19,7 +19,7 @@ If you're interested, I love setting up chats with new people who are interested
 
 **Links**
 - [Linkedin](https://www.linkedin.com/in/jashan12/) - Learn more about me :)
-- Personal Website - stay tooned
+- [Personal Website](http://www.mit.edu/~jashan/index.html) - stay tooned
 - [Twitter](https://twitter.com/JSingh_126)
 
 **Experiences**
