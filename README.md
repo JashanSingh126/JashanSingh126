@@ -13,7 +13,7 @@ If you're interested, I love setting up chats with new people who are interested
 
 **Skills**
 - Web/Mobile- Javascript, TailwindCSS, CSS, HTML, Swift, C#
-- Machine Learning - Python, Keras, Matplotlib, Pytorch, Pandas
+- Machine Learning - Python, Keras, Matplotlib, Pandas
 - Devops - Github, Basic Google Cloud
 - Design - Figma, Photoshop, Indesign, Spark, Canva
 
